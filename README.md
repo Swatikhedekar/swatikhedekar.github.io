@@ -111,8 +111,8 @@ RTM Nagpur University
 ## 📫 Contact
 
 - 📧 Email: khedekarswati75@gmail.com  
-- 🔗 LinkedIn: *(Add your LinkedIn URL)*  
-- 💻 GitHub: *(Add your GitHub profile URL)*  
+- 🔗 LinkedIn: *(https://www.linkedin.com/in/swati-khedekar/)*  
+- 💻 GitHub: *(https://github.com/Swatikhedekar)*  
 
 ---
 
