@@ -1,29 +1,99 @@
-# Business Data Analyst
-I am a data professional with 2+ years of hands-on experience in building data pipelines, analytics-ready datasets, and BI dashboards using SQL, Python, Snowflake, AWS, and Power BI. I enjoy transforming raw data into meaningful insights and scalable data solutions.
+# 🌐 Personal Portfolio Website – Next.js + Vercel
 
-### 🎓 Education
-**B.E. – Mechanical Engineering**  GPA: **9.89**
-### Bapurao Deshmukh College of Engineering, Sewagram | RTM Nagpur University 
+A modern, fast, and responsive **portfolio website** built using **Next.js** and deployed on **Vercel**.  
+This website showcases my **skills, projects, experience, and resume** as a **Data Analyst / Data Engineer**.
 
-### Technical Skills
-- SQL, Python, Tableau, n8n
-- Power BI (DAX, data modeling, KPI dashboards)
-- AWS (S3, EC2), Snowflake
-- Azure Fabric, Power Platform
+---
 
-### Work Experience
-Business Analyst @ Choicedge
-- Bitrix24 CRM implimentation 1!
-- Crm integration with power bi for live data insights
+## 🚀 Live Demo
 
-### Projects
-1. Build-A-Production-Grade-Snowflake-Cortex-AI-Agent
-2. Retails Data Analysis
-### 📜 Certifications
+🔗 https://your-project-name.vercel.app  
+*(Replace with your actual deployed URL)*
 
-- Hands-on Essentials – Data Warehouse | Snowflake
-- Core Matillion ETL Foundation | Matillion Academy
-- Google Data Analytics Professional Certificate | Coursera
-- Full Stack Data Analytics | Ineuron
-- Python for Everybody | Coursera
-- AI-driven Automation & Agentic AI (n8n) *(In Progress)*
+---
+
+## 📌 Features
+
+- ⚡ Fast performance using Next.js
+- 📱 Fully responsive (Mobile + Desktop)
+- 🎯 Clean and minimal UI design
+- 📊 Project showcase with GitHub links
+- 📄 Resume download option
+- 📬 Contact section
+- 🌍 Deployed using Vercel (CI/CD enabled)
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework:** Next.js  
+- **Frontend:** React, HTML, CSS  
+- **Deployment:** Vercel  
+- **Version Control:** Git + GitHub  
+
+---
+
+## 👨‍💻 About Me
+
+**Swati Khedekar**  
+Data Analyst | Data Engineer | Snowflake | AWS | SQL | Python  
+
+I am passionate about building **scalable data pipelines, analytics dashboards, and cloud-based data solutions**.  
+I enjoy solving business problems using **data-driven insights and automation**.
+
+---
+
+## 📊 Skills
+
+- **Programming:** Python, SQL  
+- **Cloud Platforms:** AWS  
+- **Data Warehousing:** Snowflake  
+- **ETL Tools:** Alteryx, Matillion  
+- **BI Tools:** Power BI  
+- **Web:** Next.js, HTML, CSS  
+- **Version Control:** Git, GitHub  
+
+---
+
+## 🚀 Projects
+
+### 1️⃣ End-to-End Data Engineering Pipeline  
+**Tech:** Python, AWS S3, Snowflake, SQL  
+- Built automated data ingestion and transformation pipeline  
+- Implemented validation & analytics dashboards  
+
+🔗 GitHub: https://github.com/yourusername/project-name  
+
+---
+
+### 2️⃣ Retail Analytics Dashboard  
+**Tech:** SQL, Power BI, Snowflake  
+- Designed KPIs and business insights dashboards  
+
+🔗 GitHub: https://github.com/yourusername/project-name  
+
+---
+
+### 3️⃣ Cortex AI + Streamlit Analytics App  
+**Tech:** Snowflake Cortex, Streamlit, Python  
+- Built AI-powered analytics chatbot for sales insights  
+
+🔗 GitHub: https://github.com/yourusername/project-name  
+
+---
+
+## 📄 Resume
+
+📥 [Download Resume](./public/resume.pdf)
+
+*(Upload your resume PDF in the public folder and update filename)*
+
+---
+
+## ⚙️ Installation & Setup (Local Run)
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+npm install
+npm run dev
