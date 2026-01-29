@@ -39,7 +39,7 @@ I enjoy solving business problems using **data-driven insights and automation**.
 
 ## 📄 Resume
 
-📥 [Download Resume](./public/resume.pdf)
+📥 [Download Resume](.public/swatikhedekar_cv_sn.pdf)
 
 ---
 
