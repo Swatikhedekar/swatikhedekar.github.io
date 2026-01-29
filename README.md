@@ -3,7 +3,7 @@ I am a data professional with 2+ years of hands-on experience in building data p
 
 ### 🎓 Education
 **B.E. – Mechanical Engineering**  GPA: **9.89**
-### Bapurao Deshmukh College of Engineering, Sewagram | RTM Nagpur University  
+### Bapurao Deshmukh College of Engineering, Sewagram | RTM Nagpur University 
 
 ### Technical Skills
 - SQL, Python, Tableau, n8n
