@@ -1,38 +1,3 @@
-# 🌐 Personal Portfolio Website – Next.js + Vercel
-
-A modern, fast, and responsive **portfolio website** built using **Next.js** and deployed on **Vercel**.  
-This website showcases my **skills, projects, experience, and resume** as a **Data Analyst / Data Engineer**.
-
----
-
-## 🚀 Live Demo
-
-🔗 https://your-project-name.vercel.app  
-*(Replace with your actual deployed URL)*
-
----
-
-## 📌 Features
-
-- ⚡ Fast performance using Next.js
-- 📱 Fully responsive (Mobile + Desktop)
-- 🎯 Clean and minimal UI design
-- 📊 Project showcase with GitHub links
-- 📄 Resume download option
-- 📬 Contact section
-- 🌍 Deployed using Vercel (CI/CD enabled)
-
----
-
-## 🛠 Tech Stack
-
-- **Framework:** Next.js  
-- **Frontend:** React, HTML, CSS  
-- **Deployment:** Vercel  
-- **Version Control:** Git + GitHub  
-
----
-
 ## 👨‍💻 About Me
 
 **Swati Khedekar**  
@@ -49,22 +14,12 @@ I enjoy solving business problems using **data-driven insights and automation**.
 - **Cloud Platforms:** AWS  
 - **Data Warehousing:** Snowflake  
 - **ETL Tools:** Alteryx, Matillion  
-- **BI Tools:** Power BI  
-- **Web:** Next.js, HTML, CSS  
-- **Version Control:** Git, GitHub  
+- **BI Tools:** Power BI , Tableau
+
 
 ---
 
 ## 🚀 Projects
-
-### 1️⃣ End-to-End Data Engineering Pipeline  
-**Tech:** Python, AWS S3, Snowflake, SQL  
-- Built automated data ingestion and transformation pipeline  
-- Implemented validation & analytics dashboards  
-
-🔗 GitHub: https://github.com/yourusername/project-name  
-
----
 
 ### 2️⃣ Retail Analytics Dashboard  
 **Tech:** SQL, Power BI, Snowflake  
@@ -85,8 +40,6 @@ I enjoy solving business problems using **data-driven insights and automation**.
 ## 📄 Resume
 
 📥 [Download Resume](./public/resume.pdf)
-
-*(Upload your resume PDF in the public folder and update filename)*
 
 ---
 
